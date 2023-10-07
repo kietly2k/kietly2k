@@ -1,4 +1,4 @@
-# Hi there 👋, i'm Ken Lee!
+# Hi there 👋, i'm Kiet Ly!
 
 ### A Full Stack Developer who transforms complex ideas into user-friendly applications
 
@@ -11,7 +11,7 @@
 - Git, SVN, GitHub, Bitbucket
 
 ### 🧑 Little about myself:
-- My name is Kiệt Lý, but you can also call me Ken Lee. I’m a 23-year-old living in Vietnam.
+- I’m a 23-year-old living in Viet Nam.
 - I have been on an exciting journey as a developer since 2018.
 - If I were ever asked to choose just one beverage to drink for the rest of my life, without hesitation, I would choose coffee.☕.
 
